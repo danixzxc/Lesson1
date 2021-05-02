@@ -6,7 +6,11 @@ namespace Ex4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите a");
+            //Гришель
+            //4. Написать программу обмена значениями двух переменных типа int без использования вспомогательных методов.
+            //а) с использованием третьей переменной;
+            //б) *без использования третьей переменной.
+                        Console.WriteLine("Введите a");
             int a = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Введите b");
